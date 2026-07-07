@@ -35,7 +35,7 @@
 // =========================================================================
 const char* WIFI_SSID = "eduroam";
 #define EAP_IDENTITY "emurciabotache@ufl.edu" // Must be full @ufl.edu email
-#define EAP_PASSWORD "VDMCLiebch.en1" 
+#define EAP_PASSWORD "" 
 
 
 const String CURRENT_FIRMWARE_VERSION = "1.0"; // Change this before uploading new OTA versions
